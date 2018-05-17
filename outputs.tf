@@ -1,4 +1,4 @@
 output "name" {
-  description = "Random pet name"
+  description = "Random name"
   value       = "${random_pet.main.id}"
 }
