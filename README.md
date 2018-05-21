@@ -1,3 +1,3 @@
 # Terraform Random Name
 
-Output random pet name.
+Output random name.
